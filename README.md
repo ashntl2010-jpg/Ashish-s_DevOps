@@ -1,2 +1,2 @@
 # Ashish-s_DevOps
-Meant fro learn and practice DevOps concepts.
+Meant for learning and practicing DevOps concepts.
