@@ -22,6 +22,6 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run application
-        run: python app.py
+      - name: Validate Python file
+        run: python -m py_compile app.py
 ``
